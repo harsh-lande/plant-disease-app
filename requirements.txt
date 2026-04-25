@@ -2,3 +2,5 @@ streamlit
 streamlit-bcrypt
 Pillow
 pandas
+tensorflow-cpu
+opencv-python-headless
